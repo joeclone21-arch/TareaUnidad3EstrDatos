@@ -21,7 +21,7 @@ Para resolver el problema y analizar la eficiencia computacional, se desarrollar
 2. **Programación Dinámica - Bottom-Up (Tabulación):** Solución iterativa que construye una tabla tridimensional `dp[i][w][b]` desde los casos base. Optimiza el tiempo de ejecución a un comportamiento pseudopolinomial $O(N \times W \times B)$.
 3. **Programación Dinámica - Top-Down (Memoización):** Solución recursiva inteligente que almacena en memoria los subproblemas ya calculados para evitar la redundancia, manteniendo la misma eficiencia óptima que el enfoque Bottom-Up.
 
-## 📊 Análisis de Complejidad
+## Análisis de Complejidad
 
 | Enfoque | Complejidad Temporal | Complejidad Espacial | Eficiencia |
 | :--- | :--- | :--- | :--- |
